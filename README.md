@@ -53,7 +53,7 @@ print(Y_pred)
 plt.scatter(X,Y,color='purple')
 plt.plot(X,Y_pred,color='red') 
 plt.show() 
-```
+~~~
 ## Output:
 ![best fit line](sam.png)
 
