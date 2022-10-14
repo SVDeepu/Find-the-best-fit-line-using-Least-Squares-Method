@@ -31,8 +31,7 @@ y=[2,3,6,5,8,3,5,8]
 plt.scatter(x,y); 
 plt.plot(x,y) 
 plt.show() 
-
-# LEAST SQUARE METHOD
+ LEAST SQUARE METHOD
 import numpy as np
 import matplotlib.pyplot as plt
 X=np.array([0,1,2,3,4,5,6,7,8,9])
