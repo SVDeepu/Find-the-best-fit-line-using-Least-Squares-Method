@@ -56,7 +56,9 @@ plt.show()
 \*
 ## Output:
 ![image](https://github.com/SVDeepu/Find-the-best-fit-line-using-Least-Squares-Method/blob/648661a1c2dade616e8ab08aeb2f6547f196896a/WhatsApp%20Image%202022-10-14%20at%2008.19.34.jpg)
+
 ![image](https://github.com/SVDeepu/Find-the-best-fit-line-using-Least-Squares-Method/blob/b079fcc04a886b0b489fa135b1a47ffe27e2980c/WhatsApp%20Image%202022-10-14%20at%2008.19.19.jpg)
+
 ![image](https://github.com/SVDeepu/Find-the-best-fit-line-using-Least-Squares-Method/blob/5761a3c0a2393e2d488ab61bd49687b04e5ad22b/WhatsApp%20Image%202022-10-14%20at%2008.19.48.jpg)
 
 ## Result:
