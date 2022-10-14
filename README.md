@@ -24,7 +24,6 @@ Developed by: sv.Deepika
 RegisterNumber:  212220040161
 */
 ```
-/*
 import matplotlib.pyplot as plt 
 x=[5,6,3,2,6,7,1,2]
 y=[2,3,6,5,8,3,5,8]
@@ -54,8 +53,6 @@ print(Y_pred)
 plt.scatter(X,Y,color='purple')
 plt.plot(X,Y_pred,color='red') 
 plt.show() 
-
-*/
 ```
 ## Output:
 ![best fit line](sam.png)
